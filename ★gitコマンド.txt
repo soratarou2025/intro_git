@@ -1,1 +1,11 @@
+バージョン確認
 git version
+
+ユーザ名設定
+git config --global user.name "soratarou2025"
+
+メールアドレス設計
+git config --global user.email "sora.2012.busou@gmail.com"
+
+
+git push -u origin master
