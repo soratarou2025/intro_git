@@ -9,3 +9,5 @@ git config --global user.email "sora.2012.busou@gmail.com"
 
 
 git push -u origin master
+
+git diff
